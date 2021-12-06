@@ -2,7 +2,7 @@
 
 
 
-Hello!! My name is Daniel Arroyo, I love singing. My favorite game is zenith vr
+### Hello!! My name is Daniel Arroyo, I love singing. My favorite game is zenith vr.
 
 - 🔭 I’m currently working on enhancing my singing skills.
 - 🌱 I’m currently learning to code on my novatech class.
