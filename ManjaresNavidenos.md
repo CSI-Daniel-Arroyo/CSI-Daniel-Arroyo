@@ -1,5 +1,12 @@
+<div align="center">
+ 
+<img src="https://edgardonoel.com/wp-content/uploads/2019/12/Coquito-con-Helado-de-Coco.jpeg" width="520" height="374">
+
 # Manjares Navidenos
+
 ## Coquito
+</div>
+
 ### Ingredientes: 
 - ___(12 oz.)___ lata de leche evaporada 
 - ___(4 oz.)___ lata de leche condensada azucarada
@@ -13,6 +20,9 @@
 3. Vierte el coquito en una botella o jarra de cristal y metelo al refrigerador por al menos 2 horas.
 4. Sirve bien frío acompañado con un poquito de canela molida encima.
 
+### Video:
+-https://www.youtube.com/watch?v=7VVfVkoNoSg
 
+<br>
 #### referencias:
 https://www.quericavida.com/recetas/coquito-puertorriqueno/8d9967f5-43eb-4691-af18-ac4fb32c42fd
